@@ -1,0 +1,11 @@
+body{
+    background-image: url(imagens/tt324.jpg) ;
+
+    background-size: cover;
+  } 
+  .texto{
+    text-align: center;
+  }
+  div{
+    text-align: center;
+  }
